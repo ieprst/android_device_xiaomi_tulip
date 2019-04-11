@@ -500,7 +500,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
         </interface>
     </hal>
     <hal format="hidl" optional="true">
-        <name>vendor.mokee.livedisplay</name>
+        <name>vendor.lineage.livedisplay</name>
         <version>2.0</version>
         <interface>
             <name>IDisplayModes</name>
@@ -512,7 +512,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
         </interface>
     </hal>
     <hal format="hidl" optional="true">
-        <name>vendor.mokee.trust</name>
+        <name>vendor.lineage.trust</name>
         <transport>hwbinder</transport>
         <version>1.0</version>
         <interface>
