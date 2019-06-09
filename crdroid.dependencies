@@ -1,0 +1,14 @@
+[
+  {
+    "repository" : "rama982/android_kernel_xiaomi_tulip",
+    "target_path": "kernel/xiaomi/tulip",
+    "branch": "pie-eas",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0",
+    "remote": "github"
+  }
+]﻿
